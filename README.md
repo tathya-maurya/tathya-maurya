@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi 👋 I'm Tathya Maurya
 
-<!--
-**tathya-maurya/tathya-maurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate (August 2025)  
+📚 Focused on Backend Development & Problem Solving  
+🚀 Aspiring Software Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Programming: Java  
+- Data Structures & Algorithms: Intermediate level  
+- Database: SQL  
+- Backend: Advanced Java, REST APIs  
+- Frontend (Basic): HTML, CSS, JavaScript, Tailwind CSS  
+- Tools: Git & GitHub  
+
+---
+
+### 📖 Daily Learning & Practice
+- SQL – Daily practice (queries & concepts)
+- DSA – Daily problem solving
+- Advanced Java – Core & backend concepts
+- REST APIs – Design & implementation
+- Small-level projects (hands-on practice)
+
+---
+
+
